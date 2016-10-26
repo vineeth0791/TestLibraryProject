@@ -77,3 +77,4 @@ app/libs/
 app/src/main/res/drawable/
 test-library/libs/
 test-library/src/main/res/drawable/
+*.lock

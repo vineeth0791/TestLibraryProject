@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Context context=MainActivity.this;
 
         TestLibrary testLibrary=new TestLibrary(MainActivity.this);
-        testLibrary.displaySurvey("First sample after uploading to git","THis is working");
+        testLibrary.displaySurvey("First testig sample after uploading to git","THis is working");
 
     }
 }

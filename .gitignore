@@ -1,6 +1,6 @@
 .idea/workspace.xml
 .DS_Store
-
+/.idea/workspace.xml
 # built application files
 *.apk
 *.ap_
@@ -36,3 +36,4 @@ build
 *.ipr
 *~
 *.swp
+.idea/workspace.xml
